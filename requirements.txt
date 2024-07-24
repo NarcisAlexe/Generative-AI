@@ -1,0 +1,6 @@
+ollama
+openai
+torch
+PyPDF2
+ollama
+pyyaml
